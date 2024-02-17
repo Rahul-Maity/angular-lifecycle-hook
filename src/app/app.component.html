@@ -1,0 +1,10 @@
+<div class="container">
+<input type="text" #inputEl (focus)="0">
+  <button (click)="onBtnClicked(inputEl)" >Submit</button>
+
+  <app-demo [message]="inputVal">
+  <p #temp>User has entered following text: {{inputVal}}</p>
+  </app-demo>
+ 
+
+</div>

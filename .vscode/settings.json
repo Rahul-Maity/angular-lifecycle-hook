@@ -1,0 +1,13 @@
+{
+    "editor.letterSpacing": 1.7,
+    "editor.fontWeight": "430",
+    "editor.fontFamily": "cascadia code, fira code, Consolas, Liberation Mono, monospace",
+
+    "editor.fontSize": 11.3,
+
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontWeight":"bold",
+    "terminal.integrated.fontFamily": "cascadia code",
+    "terminal.integrated.letterSpacing": 2.0,
+    "window.zoomLevel": -1
+} 
